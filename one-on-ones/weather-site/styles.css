@@ -1,0 +1,20 @@
+* {
+  color: white;
+  font-style: sans-serif;
+  font-family: sans-serif;
+  text-align: center;
+  background-image: url(https://gist.github.com/dm-wyncode/63763f460421122aab6bad7de00b0ac1/raw/d660cd094961bea222d6b2453aca2538f07ef62b/rainy.jpg
+);
+}
+
+div {
+  text-align: center;
+  display: flex;
+  flex-flow: column;
+
+}
+#temp {
+  font-size: 30px;
+  border-style: solid;
+  border-color: black;
+}
